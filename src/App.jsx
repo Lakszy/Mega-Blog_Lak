@@ -1,7 +1,7 @@
 import './App.css'
-import conf from './conf/conf'
+import config from './conf/conf'
 function App() {
-  console.log(conf);
+  console.log(config);
   return (
     <h1>A Blog With APPWRITE</h1>
   )
